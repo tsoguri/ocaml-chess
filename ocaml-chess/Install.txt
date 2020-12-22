@@ -1,0 +1,10 @@
+To Install:
+
+1. Download zip file of code
+2. Run make build
+3. Run make play 
+4. Follow the commands on the screen 
+5. If you want to play with the XQuartz GUI, you must have XQuartz installed, 
+and run opam install graphics. Otherwise, you can play in the terminal GUI.  
+5. Type 'quit' to exit game when it asks for a command
+7. To test, run make test
