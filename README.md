@@ -5,7 +5,7 @@ This is a two-player, interactive chess game, written in OCaml, playable in the 
 
 ### What Does It Look Like? 
 In the XQuartz Gui:
-![](chess-home.jpg)
+![](chess-home.png)
 
 ### How to Play
 1. Download code
