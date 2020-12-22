@@ -2,7 +2,7 @@
 by Sophia Oguri (tso24@cornell.edu), Ian Mackey (idm23@cornell.edu), Alisha Kewalramani (ark243@cornell.edu), Victor Su-Ortiz (vas64@cornell.edu)
 
 ### What Is It? 
-This is a two-player, interactive chess game, written in OCaml, playable in the terminal or in an XQuartz GUI. Grab a friend and come join in on the fun!
+This is a two-player, interactive chess game, written in OCaml, playable in the terminal or in an XQuartz GUI.
 
 ### What Does It Look Like? 
 In the XQuartz Gui:
