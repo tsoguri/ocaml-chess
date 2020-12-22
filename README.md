@@ -1,4 +1,5 @@
 # Chess in OCaml
+by Sophia Oguri, Ian Mackey, Alisha Kewalramani, Victor Su-Ortiz
 
 ### What Is It? 
 This is a two-player, interactive chess game, written in OCaml, playable in the terminal or in an XQuartz GUI. Grab a friend and come join in on the fun!
